@@ -1,16 +1,11 @@
-# app_a
+# Control de Gastos y Actividades Diarias
 
-App para cuentas monetarias
+Este aplicativo se encuentra en desarrollo con el lenguaje Dart bajo el framework Flutter el cual tiene como finalidad lograr tener un control de gastos y de actividades diarias segun la necesidad, donde se van a realizar informes sobre los gastos generados y registrara el historial de movimientos realizados. Hasta el momento el aplicativo se encuentra conectado a la base de datos Firebase apoyandose de la autenticacion que ofrece Google para estos desarrollos donde se pueden presentar multiples usuarios; El aplicativo esta siendo desarrollado en Android Studio. 
 
-## Getting Started
+## Requisitos 📋
 
-This project is a starting point for a Flutter application.
+Se requiere tener instalado Android Studio en el computador para ejecutar la aplicacion y adicionalmente se requiere habilitar la depuracion USB en nuestros celulares para emular la aplicacion en el celular.
 
-A few resources to get you started if this is your first Flutter project:
+## Como Ejecutar 🔧
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Se requiere descargar los archivos publicados y desde Android Studio abrir las carpetas descargadas como proyecto, seguidamente se debe ejecutar el programa con la previa conexion del celular al computador por USB donde automaticamente se instalara y se lanzara en el celular la aplicacion que se encuentra en desarrollo.
